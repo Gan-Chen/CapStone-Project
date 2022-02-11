@@ -1,0 +1,73 @@
+body{
+        background-image:url("https://th.bing.com/th/id/R.9fd109c1b3831229a86b3095b4326120?rik=0zQhNN%2fkZ3HG2g&pid=ImgRaw&r=0");
+        background-repeat:no-repeat;
+        background-size:cover;
+}
+   h1 {
+    color: rgb(243, 174, 13);
+    text-align: center;
+}
+nav a:hover{
+  background-color:lightblue;
+  color:orange;
+}
+nav a{
+  text-decoration: none;
+  margin:120px;
+  
+}
+
+#Impo1{
+ 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding:10px;
+  border: outset rgb(208, 221, 34) 10px
+}
+
+#Bee1{
+  color:rgba(233, 168, 17, 0.671);
+font-family:cursive;
+text-align:right;
+}
+#FunFact{
+    text-align: left;
+    color: rgb(119, 26, 26);
+}
+  
+
+
+.bottomright {
+  position: absolute;
+  bottom: 9px;
+  right: 15px;
+  font-size: 18px;
+}
+
+#Contact{
+  text-align: center;
+  font-family: cursive;
+  color:black;
+}
+
+#Textbox{
+
+  border:outset rgb(208, 221, 34);
+}
+
+#Cool{
+
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(95, 7, 7)
+}
+
+#NewBackground{
+        background-image:url("https://d.newsweek.com/en/full/1137129/bee-stock.jpg");
+        background-repeat:no-repeat;
+        background-size:cover;
+}
+
+#NewBackground1{
+        background-image:url("https://th.bing.com/th/id/R.228bc4a80e6fdbae6e18a7ee363495cc?rik=lZ1ydoy6bK%2blKA&pid=ImgRaw&r=0");
+        background-repeat:no-repeat;
+        background-size:cover;
+}
